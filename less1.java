@@ -1,0 +1,3 @@
+class less1 {
+
+}
